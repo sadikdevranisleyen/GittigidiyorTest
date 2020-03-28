@@ -8,7 +8,7 @@ import org.openqa.selenium.By;
 import static com.gittigidiyor.base.BaseTest.getDriver;
 
 
-public class StepImplementation {
+public class LoginScenario {
     openLoginPage openLoginPage;
     GittigidiyorTest gittigidiyorTest = null;
 

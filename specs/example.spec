@@ -11,5 +11,7 @@ login
 
 register
 --------
-* Siteye git
-* Kayıt sayfasını aç
+* Open Main Page
+* Open Register Page
+* register name "Mehmet Harun", surname "Mutlu", email "mharunmutlu@gmail.com", password "Mharun_135790", gsm no "5386619221"
+* Click Register Button
