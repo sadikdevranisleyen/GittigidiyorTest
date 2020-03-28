@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AddtoBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegisterScenario.java" afterDir="false" />
+    <list default="true" id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="newScenarios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginScenario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newScenarios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/newScenarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/newScenarios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddtoBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AddtoBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegisterScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegisterScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/page/openLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/page/LoginAndRegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/page/sepeteEkele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/page/AddtoBasketPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/GittigidiyorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/GittigidiyorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,11 +294,11 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="409" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1583322441503" />
-    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585401391792">
+    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585409383616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="394" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1583324587973" />
-    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585401391792" />
+    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585409383616" />
     <state x="365" y="79" key="#hepsiburadaTest_(1)" timestamp="1585385949400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -375,10 +375,10 @@
     </state>
     <state width="1231" height="266" key="GridCell.Tab.1.right/0.0.1274.838@0.0.1274.838" timestamp="1583241694217" />
     <state width="1237" height="324" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1583318381290" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1585390756910">
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1585409541877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585390756910" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585409541877" />
     <state x="143" y="136" key="SettingsEditor" timestamp="1583318943348">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

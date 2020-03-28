@@ -4,9 +4,8 @@ import com.gittigidiyor.base.BasePage;
 import org.openqa.selenium.WebDriver;
 
 
-public class openLoginPage extends BasePage {
-    public openLoginPage(WebDriver driver) {
+public class AddtoBasketPage extends BasePage {
+    public AddtoBasketPage(WebDriver driver) {
         super(driver);
     }
-
 }
