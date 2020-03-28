@@ -38,4 +38,5 @@ public class GittigidiyorTest extends BaseTest {
         System.out.println(producktName + " - " + basketName);
         Assert.assertEquals(basketName, producktName);*/
     }
+
 }

@@ -24,6 +24,7 @@ public class BasePage {
     }
 
     public void sendKeys(By by, String text) {
+
         findElement(by).sendKeys(text);
     }
 
@@ -36,10 +37,11 @@ public class BasePage {
         Select select = new Select(findElement(by));
         select.selectByVisibleText(text);
     }
-//test
+
     public void hoverElement(By by) {
         Actions actions = new Actions(driver);
         actions.moveToElement(findElement(by)).build().perform();
+
     }
 
     public String getText(By by) {

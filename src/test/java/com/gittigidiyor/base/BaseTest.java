@@ -2,6 +2,7 @@ package com.gittigidiyor.base;
 
 import com.thoughtworks.gauge.BeforeScenario;
 import org.junit.After;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -16,13 +17,14 @@ public class BaseTest {
     @BeforeScenario
     public void setUp() throws Exception {
         System.setProperty("webdriver.chrome.driver",
-                "properties/driver/chromedriver.exe"); //kullanılacak driverin yolu seçilir
+                "properties/driver/chromedriverr.exe"); //kullanılacak driverin yolu seçilir
         ChromeOptions options = new ChromeOptions();
         options.addArguments("disable-notifications");
         options.addArguments("disable-popup-blocking");
         options.addArguments("start-maximized");
         setDriver(new ChromeDriver(options));
         getDriver().navigate().to("https://www.gittigidiyor.com");
+//        getDriver().findElement(By.id("search_word")).sendKeys("asdasd");
     }
 
 
