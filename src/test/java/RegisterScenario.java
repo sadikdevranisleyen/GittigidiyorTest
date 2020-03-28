@@ -26,6 +26,6 @@ public class RegisterScenario {
     }
     @Step("Click Register Button")
     public void ClickRegisterButton(){
-        LoginAndRegisterPage.clickElement(By.id("SubmasditForm"));
+        LoginAndRegisterPage.clickElement(By.id("SubmitForm"));
     }
 }
