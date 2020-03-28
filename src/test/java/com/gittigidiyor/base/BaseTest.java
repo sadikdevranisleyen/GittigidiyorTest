@@ -1,5 +1,6 @@
 package com.gittigidiyor.base;
 
+import com.thoughtworks.gauge.AfterScenario;
 import com.thoughtworks.gauge.BeforeScenario;
 import org.junit.After;
 import org.junit.Before;
@@ -16,7 +17,7 @@ public class BaseTest {
     static WebDriver driver = null;
 
     @BeforeScenario
-    public void setUp() throws Exception {
+    public void setUp(){
         System.setProperty("webdriver.chrome.driver",
                 "properties/driver/chromedriver.exe"); //kullanılacak driverin yolu seçilir
         ChromeOptions options = new ChromeOptions();
@@ -36,7 +37,7 @@ public class BaseTest {
         BaseTest.driver = driver;
     }
 
-    @After
+    @AfterScenario
     public void tearDown() throws Exception {
         TimeUnit.SECONDS.sleep(5);
         getDriver().quit();

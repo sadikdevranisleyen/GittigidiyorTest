@@ -9,7 +9,7 @@ public class LoginScenario {
     LoginAndRegisterPage LoginAndRegisterPage;
 
     @Step("Siteye git")
-    public void setLanguageVowels() {
+    public void openPage() {
         LoginAndRegisterPage = new LoginAndRegisterPage(getDriver());
     }
     @Step("Login sayfasını aç")
