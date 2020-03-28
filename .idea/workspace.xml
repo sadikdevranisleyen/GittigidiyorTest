@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/newScenarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/constans/ConstantLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/constans/ConstantLoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/GittigidiyorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/GittigidiyorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/base/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/constans/ConstantLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/constans/ConstantLoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/test/GittigidiyorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/test/GittigidiyorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +48,7 @@
       <recent name="com.garantibbva.page" />
     </key>
   </component>
-  <component name="RunManager" selected="Gauge Execution.example.spec">
+  <component name="RunManager" selected="Gauge Execution.register (1)">
     <configuration name="SearchPageTest" type="JUnit" factoryName="JUnit">
       <module name="GittigidiyorProje" />
       <useClassPathOnly />
@@ -159,21 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Deneme (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:5" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="GittigidiyorProje" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="example.spec" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec" />
@@ -183,21 +159,6 @@
       <setting name="programParameters" value="" />
       <setting name="workingDirectory" value="" />
       <setting name="moduleName" value="SelemiumDemo-master" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="login (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:5" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="GittigidiyorProje" />
       <envMap />
       <setting name="rowsRange" value="" />
       <method v="2">
@@ -219,7 +180,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="login" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="login (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:5" />
       <setting name="tags" value="" />
@@ -234,13 +195,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="register (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:12" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="GittigidiyorProje" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="register" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:12" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="GittigidiyorProje" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gauge Execution.register (1)" />
+        <item itemvalue="Gauge Execution.login (3)" />
+        <item itemvalue="Gauge Execution.register" />
         <item itemvalue="Gauge Execution.example.spec" />
         <item itemvalue="Gauge Execution.login (2)" />
-        <item itemvalue="Gauge Execution.login (1)" />
-        <item itemvalue="Gauge Execution.login" />
-        <item itemvalue="Gauge Execution.Deneme (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -303,46 +294,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="365" y="79" key="#n11Test_(1)/0.0.1536.824@0.0.1536.824" timestamp="1585385938231" />
+    <state x="401" y="6" key="CommitChangelistDialog2" timestamp="1585406849542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585406849542" />
     <state x="417" y="173" key="FileChooserDialogImpl" timestamp="1583323414142">
       <screen x="0" y="0" width="1274" height="838" />
     </state>
     <state x="417" y="173" key="FileChooserDialogImpl/0.0.1274.838@0.0.1274.838" timestamp="1583323414142" />
-    <state x="591" y="328" key="Github.CreateGistDialog" timestamp="1585402308169">
+    <state x="591" y="328" key="Github.CreateGistDialog" timestamp="1585406804235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="591" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1585402308169" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585406403871">
+    <state x="591" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1585406804235" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585406899998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1109" height="237" key="GridCell.Tab.0.bottom/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.bottom/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.bottom/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
     <state width="1237" height="236" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585406403871" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585406403871">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585406899998" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585406899997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1109" height="237" key="GridCell.Tab.0.center/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.center/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.center/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
     <state width="1237" height="236" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585406403871" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585406403871">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585406899997" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585406899997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1109" height="237" key="GridCell.Tab.0.left/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.left/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.left/0.0.1278.842@0.0.1278.842" timestamp="1583307730528" />
     <state width="1237" height="236" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585406403871" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585406403871">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585406899997" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585406899997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1109" height="237" key="GridCell.Tab.0.right/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.right/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.right/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
     <state width="1237" height="236" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585406403871" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585406899997" />
     <state width="1237" height="324" key="GridCell.Tab.1.bottom" timestamp="1583318381290">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
