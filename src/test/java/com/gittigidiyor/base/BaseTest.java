@@ -2,9 +2,11 @@ package com.gittigidiyor.base;
 
 import com.thoughtworks.gauge.BeforeScenario;
 import org.junit.After;
+import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import static com.gittigidiyor.constans.ConstantLoginPage.*;
 
 import java.util.concurrent.TimeUnit;
 
@@ -22,7 +24,7 @@ public class BaseTest {
         options.addArguments("disable-popup-blocking");
         options.addArguments("start-maximized");
         setDriver(new ChromeDriver(options));
-        getDriver().navigate().to("https://www.gittigidiyor.com");
+        getDriver().navigate().to(webSite);
     }
 
 

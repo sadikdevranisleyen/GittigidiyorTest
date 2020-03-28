@@ -36,7 +36,7 @@ public class BasePage {
         Select select = new Select(findElement(by));
         select.selectByVisibleText(text);
     }
-//test
+
     public void hoverElement(By by) {
         Actions actions = new Actions(driver);
         actions.moveToElement(findElement(by)).build().perform();

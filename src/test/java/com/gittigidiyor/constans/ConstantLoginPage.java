@@ -12,5 +12,6 @@ public class ConstantLoginPage {
     public static final By POPUP_KAPAT = By.className("fancybox-close");
     public static final By SEPET_ADI = By.className("basketlist-productinfo-description");
     public static final String ARANACAK_URUN = "kulaklık";
+    public static final String webSite = "https://www.gittigidiyor.com";
 
 }

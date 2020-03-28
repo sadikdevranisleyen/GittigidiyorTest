@@ -5,10 +5,9 @@ DenemeSpec
 login
 -------
 * Siteye git
-* Login Sayfasina Gider
+* Login sayfasını aç
+* Kullanıcı adı "mharunmutlu@gmail.com" şifre "denemedeneme" gir
+* Giriş butonuna tıkla
 
-
-ara
-----
 
 

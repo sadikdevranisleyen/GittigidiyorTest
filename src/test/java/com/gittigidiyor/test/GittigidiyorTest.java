@@ -3,6 +3,7 @@ package com.gittigidiyor.test;
 import com.gittigidiyor.base.BaseTest;
 import com.gittigidiyor.page.SearchPage;
 import com.gittigidiyor.page.openLoginPage;
+import com.thoughtworks.gauge.BeforeScenario;
 import com.thoughtworks.gauge.Step;
 import org.junit.Assert;
 import org.junit.Before;
@@ -13,16 +14,17 @@ import static com.gittigidiyor.constans.ConstantLoginPage.*;
 
 public class GittigidiyorTest extends BaseTest {
     SearchPage searchPage;
-    com.gittigidiyor.page.openLoginPage openLoginPage;
+    openLoginPage openLoginPage;
 
     @Before
     public void before() {
-        searchPage = new SearchPage(getDriver());
+        openLoginPage = new openLoginPage(getDriver());
     }
 
-    @Step("Login Sayfasina Gider")
+    //@Step("Login Sayfasina Gider")
+    @Test
     public void openLoginPage() {
-        openLoginPage.hoverElement(By.className("hidden"));
+        openLoginPage.hoverElement(By.className("robot-header-iconContainer-profile"));
         openLoginPage.clickElement(By.id("SignIn"));
 
 
