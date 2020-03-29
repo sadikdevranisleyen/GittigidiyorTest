@@ -8,7 +8,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 
 public class GittigidiyorTest extends BaseTest {
-    SearchPage searchPage;
+    /*SearchPage searchPage;
     LoginAndRegisterPage LoginAndRegisterPage;
 
     @Before
@@ -21,5 +21,5 @@ public class GittigidiyorTest extends BaseTest {
     public void openLoginPage() {
         LoginAndRegisterPage.hoverElement(By.className("robot-header-iconContainer-profile"));
         LoginAndRegisterPage.clickElement(By.id("SignIn"));
-    }
+    }*/
 }
