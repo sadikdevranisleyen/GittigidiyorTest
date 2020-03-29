@@ -8,5 +8,6 @@ public class AddtoBasket {
     @Step("addToBasket")
     public void openMaingPage() {
         addtoBasketPage = new AddtoBasketPage(getDriver());
+        System.out.println("Deneme 1");
     }
 }
