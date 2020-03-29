@@ -21,18 +21,5 @@ public class GittigidiyorTest extends BaseTest {
     public void openLoginPage() {
         LoginAndRegisterPage.hoverElement(By.className("robot-header-iconContainer-profile"));
         LoginAndRegisterPage.clickElement(By.id("SignIn"));
-
-
-        /*
-        searchPage.clickElement(POPUP_KAPAT);
-        searchPage.writeInput(ARANACAK_URUN);
-        searchPage.ClickSearch();
-        searchPage.chooseProduct();
-        searchPage.addBasket();
-        String producktName = searchPage.getText(URUN_ADI);
-        searchPage.goBasket();
-        String basketName = searchPage.getText(SEPET_ADI);
-        System.out.println(producktName + " - " + basketName);
-        Assert.assertEquals(basketName, producktName);*/
     }
 }

@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="newScenarios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginScenario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginScenario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginScenario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/GittigidiyorProje.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SelemiumDemo-master.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RegisterScenario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RegisterScenario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddtoBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AddtoBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/GittigidiyorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/GittigidiyorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,10 +317,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="365" y="79" key="#n11Test_(1)/0.0.1536.824@0.0.1536.824" timestamp="1585385938231" />
-    <state x="401" y="6" key="CommitChangelistDialog2" timestamp="1585411915006">
+    <state x="401" y="6" key="CommitChangelistDialog2" timestamp="1585484705082">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="401" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585411915006" />
+    <state x="401" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585484705082" />
     <state x="417" y="173" key="FileChooserDialogImpl" timestamp="1583323414142">
       <screen x="0" y="0" width="1274" height="838" />
     </state>
