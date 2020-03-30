@@ -44,3 +44,21 @@ Haftanın Çok Satanları
 ---------------------------
 * AnaSayfa Açılır
 * Rasgele Ürün Seçilir
+
+Elektronik Kategorisi
+-------------------------
+* Ana sayfa açılır
+* Elektronik sayfasına gider
+* Urun seçilir
+* Sepete ekle
+* Sepete git
+* Sepetten ürün sil
+
+Bahçe Kategorisi
+----------------------
+* Open Page
+* Ev bahçe sayfasına gider
+* Urun seç
+* Sepete Ekle
+* Sepete Git
+* Sepetten Ürün Sil

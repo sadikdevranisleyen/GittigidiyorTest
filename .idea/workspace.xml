@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6220f8a0-4cc6-41f7-bde4-acfa67268d89" name="Default Changelist" comment="newScenarios">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elektronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeGardenOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/page/ElektronicPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/page/HomeGardenPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/properties/screen_shots/Secilenurunsepeteeklenir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/constans/ConstantLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/constans/ConstantLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AddtoBasket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PopulerCategoriesProductSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PopulerCategoriesProductSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/constans/ConstantLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gittigidiyor/constans/ConstantLoginPage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +65,7 @@
       <recent name="C:\Users\testinium\Desktop\EducationProjects\SeleniumDemo\properties\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Gauge Execution.Populer Kategori İşlemleri (1)">
+  <component name="RunManager" selected="Gauge Execution.Elektronik Kategorisi (3)">
     <configuration name="SearchPageTest" type="JUnit" factoryName="JUnit">
       <module name="GittigidiyorProje" />
       <useClassPathOnly />
@@ -157,6 +167,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Elektronik Kategorisi (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:48" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Elektronik Kategorisi (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:48" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Elektronik Kategorisi (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:48" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Elektronik Kategorisi" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:48" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="webotomasyon" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Populer Kategori İşlemleri (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:30" />
@@ -172,73 +242,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Populer Kategori İşlemleri" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:30" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="webotomasyon" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="urun secme (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:19" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="webotomasyon" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="urun secme (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:19" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="webotomasyon" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="urun secme" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:19" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="webotomasyon" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gauge Execution.Elektronik Kategorisi (3)" />
+        <item itemvalue="Gauge Execution.Elektronik Kategorisi (2)" />
+        <item itemvalue="Gauge Execution.Elektronik Kategorisi (1)" />
+        <item itemvalue="Gauge Execution.Elektronik Kategorisi" />
         <item itemvalue="Gauge Execution.Populer Kategori İşlemleri (1)" />
-        <item itemvalue="Gauge Execution.Populer Kategori İşlemleri" />
-        <item itemvalue="Gauge Execution.urun secme (2)" />
-        <item itemvalue="Gauge Execution.urun secme (1)" />
-        <item itemvalue="Gauge Execution.urun secme" />
       </list>
     </recent_temporary>
   </component>
@@ -345,37 +355,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="591" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1585406804235" />
-    <state width="1877" height="151" key="GridCell.Tab.0.bottom" timestamp="1585578473002">
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom" timestamp="1585586647833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585578473002" />
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585586647833" />
     <state width="1109" height="237" key="GridCell.Tab.0.bottom/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.bottom/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.bottom/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
     <state width="1237" height="236" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
     <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585559881257" />
-    <state width="1877" height="151" key="GridCell.Tab.0.center" timestamp="1585578473001">
+    <state width="1877" height="151" key="GridCell.Tab.0.center" timestamp="1585586647832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585578473001" />
+    <state width="1877" height="151" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585586647832" />
     <state width="1109" height="237" key="GridCell.Tab.0.center/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.center/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.center/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
     <state width="1237" height="236" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
     <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585559881257" />
-    <state width="1877" height="151" key="GridCell.Tab.0.left" timestamp="1585578473001">
+    <state width="1877" height="151" key="GridCell.Tab.0.left" timestamp="1585586647832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585578473001" />
+    <state width="1877" height="151" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585586647832" />
     <state width="1109" height="237" key="GridCell.Tab.0.left/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.left/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.left/0.0.1278.842@0.0.1278.842" timestamp="1583307730528" />
     <state width="1237" height="236" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1583327202222" />
     <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585559881257" />
-    <state width="1877" height="151" key="GridCell.Tab.0.right" timestamp="1585578473001">
+    <state width="1877" height="151" key="GridCell.Tab.0.right" timestamp="1585586647833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585578473001" />
+    <state width="1877" height="151" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585586647833" />
     <state width="1109" height="237" key="GridCell.Tab.0.right/0.0.1152.824@0.0.1152.824" timestamp="1583239347643" />
     <state width="1231" height="237" key="GridCell.Tab.0.right/0.0.1274.838@0.0.1274.838" timestamp="1583242162852" />
     <state width="1235" height="236" key="GridCell.Tab.0.right/0.0.1278.842@0.0.1278.842" timestamp="1583307730529" />
