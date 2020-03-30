@@ -23,8 +23,9 @@ urun secme
 * Arama butonuna bas
 * "Kitap" araması kontrol edilir
 * Arama sayfasından rasgele ürün seçilir
-//* Kaç "3" sepete ekleneceği seçilir
-//* Seçilen ürün sepete eklenir
+* Seçilen ürün sepete eklenir
+* Sepete Git
+* Sepetten Sil
 
 Populer Kategori İşlemleri
 ---------------------
